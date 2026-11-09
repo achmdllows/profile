@@ -1,5 +1,13 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=250&section=header&text=achmdllows&fontSize=75&fontColor=ffffff&fontAlignY=45&desc=SOFTWARE%20DEVELOPER%20%2F%20DIGITAL%20CREATOR&descAlignY=67&descSize=12&animation=fadeIn" width="100%" />
+
+<br/>
+
+<br/>
+
+<div align="center">
+
 <a href="https://github.com/achmdllows">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -14,10 +22,6 @@
 </a>
 
 </div>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=BDBDBD&center=true&vCenter=true&width=500&lines=Building+digital+experiences.;Developing+systems+from+scratch.;Turning+ideas+into+reality." />
 
 <br/><br/>
 

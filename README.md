@@ -271,10 +271,9 @@ A digital service provider offering hosting, infrastructure, development, and te
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PAWN-111111?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/OPEN.MP-111111?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/CEF-111111?style=flat-square&logo=googlechrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/PTERODACTYL-111111?style=flat-square&logo=pterodactyl&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,java,php,mysql,sqlite,androidstudio,electron,git,github,vscode,linux&theme=dark"/>
+<img src="https://img.shields.io/badge/PAWN-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/OPEN.MP-111111?style=flat-square"/>
 
 </div>
 

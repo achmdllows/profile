@@ -21,13 +21,6 @@
 </a>
 
 </div>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=achmdllows&style=flat-square&color=333333&label=PROFILE+VIEWS"/>
-
-</div>
-
 ---
 
 <div align="center">

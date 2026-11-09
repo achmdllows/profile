@@ -31,9 +31,7 @@ I work across multiple technologies, focusing on functionality, performance, sca
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,java,php,mysql,sqlite,androidstudio,electron,git,github,vscode,linux&theme=dark"/>
-<img src="https://img.shields.io/badge/PAWN-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/OPEN.MP-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/PAWN-111111?style=for-the-badge&logoColor=white" height="32"/>
 
 ### SA-MP / OPEN.MP
 

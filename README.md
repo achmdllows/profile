@@ -1,6 +1,13 @@
- <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=080808&height=260&section=header&text=ACHMDLLOWS&fontSize=68&fontColor=FFFFFF&fontAlignY=42&desc=DEVELOPER%20%20%2F%20%20DIGITAL%20ENGINEER&descSize=13&descAlignY=62&animation=fadeIn" />
+<p align="center">
+  <strong>Building digital experiences, systems & technology.</strong>
+  <br><br>
+  <a href="https://github.com/achmdllows">
+    <img src="https://img.shields.io/badge/GitHub-achmdllows-181818?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://discord.gg/35md5S2ddG">
+    <img src="https://img.shields.io/badge/ServerQu-Discord-181818?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
 
 <br/>
 

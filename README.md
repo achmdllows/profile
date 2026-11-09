@@ -31,7 +31,7 @@
 
 I'm **achmdllows**, a developer focused on building software, applications, game server systems, and digital infrastructure.
 
-My development interests cover multiple ecosystems — from SA-MP/open.mp gamemode engineering to modern web applications, automation, Discord bots, Android applications, and Windows desktop software.
+My development interests cover multiple ecosystems : from SA-MP/open.mp gamemode engineering to modern web applications, automation, Discord bots, Android applications, and Windows desktop software.
 
 I believe in writing functional code, building reliable systems, and continuously improving every project.
 
@@ -60,7 +60,7 @@ I believe in writing functional code, building reliable systems, and continuousl
 
 ![](https://img.shields.io/badge/SA--MP%20%2F%20OPEN.MP-PAWN-333333?style=flat-square)
 
-**SA-MP / open.mp — Game Server Engineering**
+**SA-MP / open.mp : Game Server Engineering**
 
 - Custom Gamemode Development
 - Roleplay Systems & Mechanics
@@ -80,7 +80,7 @@ I believe in writing functional code, building reliable systems, and continuousl
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark"/>
 
-**Web Development — Websites & Digital Platforms**
+**Web Development : Websites & Digital Platforms**
 
 - Frontend Development
 - Backend Development
@@ -101,7 +101,7 @@ I believe in writing functional code, building reliable systems, and continuousl
 
 <img src="https://skillicons.dev/icons?i=nodejs&theme=dark"/>
 
-**Node.js Development — Bots & Automation**
+**Node.js Development : Bots & Automation**
 
 - Discord Bot Development
 - Custom Bot Commands
@@ -120,7 +120,7 @@ I believe in writing functional code, building reliable systems, and continuousl
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
 
-**Python Development — Automation & Applications**
+**Python Development : Automation & Applications**
 
 - Python Applications
 - Automation Scripts
@@ -141,7 +141,7 @@ I believe in writing functional code, building reliable systems, and continuousl
 
 <img src="https://skillicons.dev/icons?i=androidstudio,java&theme=dark"/>
 
-**Android Development — Mobile Applications**
+**Android Development : Mobile Applications**
 
 - Native Android Applications
 - Custom APK Development
@@ -160,7 +160,7 @@ I believe in writing functional code, building reliable systems, and continuousl
 
 <img src="https://skillicons.dev/icons?i=electron,windows&theme=dark"/>
 
-**Windows EXE Development — Desktop Applications**
+**Windows EXE Development : Desktop Applications**
 
 - Windows Desktop Software
 - Custom Application UI

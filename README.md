@@ -1,144 +1,309 @@
-<!--
-  ACHMDLLOWS — GitHub Profile README
-  Theme: Minimal / Monochrome / Developer Portfolio
--->
+ <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=250&section=header&text=achmdllows&fontSize=75&fontColor=ffffff&fontAlignY=45&desc=SOFTWARE%20DEVELOPER%20%2F%20DIGITAL%20CREATOR&descAlignY=67&descSize=12&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=080808&height=260&section=header&text=ACHMDLLOWS&fontSize=68&fontColor=FFFFFF&fontAlignY=42&desc=DEVELOPER%20%20%2F%20%20DIGITAL%20ENGINEER&descSize=13&descAlignY=62&animation=fadeIn" />
 
 <br/>
 
-**Independent Developer · Indonesia**
+**Building digital experiences, systems & technology.**
 
-*Turning ideas into functional digital products.*
-
-<br/>
-
-[GitHub](https://github.com/achmdllows) · [Repositories](https://github.com/achmdllows?tab=repositories) · [Activity](https://github.com/achmdllows?tab=overview)
+[![GitHub](https://img.shields.io/badge/GitHub- achmdllows-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/achmdllows)
+[![Discord Store](https://img.shields.io/badge/ServerQu%20Store-Join%20Community-111111?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/35md5S2ddG)
 
 </div>
 
 <br/>
 
-## 01 / PROFILE
+## ABOUT
 
-I'm **achmdllows**, a developer focused on building software, digital platforms, and interactive experiences.
+I'm **achmdllows**, an independent developer from Indonesia specializing in software development, game server engineering, web technologies, automation, and application development.
 
-My work spans across game server development, web applications, automation, bots, and cross-platform applications.
+I work across multiple technologies, focusing on functionality, performance, scalability, and clean implementation.
 
-I enjoy building systems from scratch, exploring new technologies, and turning complex ideas into practical solutions.
+---
 
-<br/>
+## DEVELOPMENT PORTFOLIO
 
-## 02 / WHAT I BUILD
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### GAME DEVELOPMENT
+<div align="center">
 
-**SA-MP / open.mp**
+<img src="https://skillicons.dev/icons?i=lua&theme=dark" width="45"/>
 
-- Custom gamemode development
-- Roleplay systems & mechanics
-- Server-side architecture
-- UI systems & CEF integration
+### SA-MP / OPEN.MP
+
+**Game Server Development**
+
+</div>
+
+- Custom Gamemode Development
+- Advanced Roleplay Systems
+- TextDraw & UI Development
+- CEF Integration
+- SA-MP to open.mp Migration
+- Gamemode Optimization
+- Anti-Cheat Systems
+
+<div align="center">
+
+`PAWN` `OPEN.MP` `YSI` `CEF`
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" width="110"/>
+
 ### WEB DEVELOPMENT
 
-**Websites & Platforms**
+**Modern Web Applications**
 
-- Frontend development
-- Backend integration
-- Responsive interfaces
-- Database-driven applications
+</div>
+
+- Frontend Development
+- Backend Development
+- Responsive Websites
+- Dashboard & Admin Panel
+- API Integration
+- Database Architecture
+
+<div align="center">
+
+`HTML` `CSS` `JavaScript` `PHP`
+
+</div>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### AUTOMATION & BOTS
+<div align="center">
 
-**Node.js / Python**
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="45"/>
 
-- Discord bot development
-- Automation systems
-- API integrations
-- Custom utilities
+### NODE.JS DEVELOPMENT
+
+**Bots & Automation**
+
+</div>
+
+- Discord Bot Development
+- Custom Bot Systems
+- Discord Auto Post
+- REST API Integration
+- Automation Tools
+- Backend Services
+
+<div align="center">
+
+`NODE.JS` `JAVASCRIPT` `API`
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### APPLICATION DEVELOPMENT
+<div align="center">
 
-**Android / Windows**
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="45"/>
 
-- Android APK development
-- Windows EXE applications
-- Desktop interfaces
-- Application integrations
+### PYTHON DEVELOPMENT
+
+**Automation & Software**
+
+</div>
+
+- Python Application
+- Automation Scripts
+- Custom Utilities
+- API Integration
+- Backend Development
+- Data Processing
+
+<div align="center">
+
+`PYTHON` `API` `AUTOMATION`
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="45"/>
+
+### ANDROID DEVELOPMENT
+
+**Mobile Applications**
+
+</div>
+
+- Custom Android APK
+- Mobile Application UI
+- API Integration
+- Firebase Integration
+- Application Optimization
+- Mobile Launcher Development
+
+<div align="center">
+
+`ANDROID` `JAVA` `FIREBASE`
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=windows&theme=dark" width="45"/>
+
+### WINDOWS EXE DEVELOPMENT
+
+**Desktop Applications**
+
+</div>
+
+- Custom Windows Software
+- Desktop Application UI
+- Application Launcher
+- System Utilities
+- Backend Integration
+- Desktop Optimization
+
+<div align="center">
+
+`ELECTRON` `NODE.JS` `PYTHON`
+
+</div>
 
 </td>
 </tr>
 </table>
 
-<br/>
+</div>
 
-## 03 / TECHNOLOGIES
+---
+
+## SERVERQU STORE
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,php,mysql,java,androidstudio,git,github,vscode,linux&theme=dark" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=101010&height=130&text=SERVERQU%20STORE&fontSize=35&fontColor=FFFFFF&fontAlignY=43&desc=FAST%20%26%20TRUSTED%20DIGITAL%20SERVICES&descSize=12&descAlignY=68" width="100%"/>
+
+**Your Digital Infrastructure & Development Partner.**
+
+A digital service provider offering hosting, infrastructure, development, and technical solutions.
+
+<a href="https://discord.gg/35md5S2ddG">
+<img src="https://img.shields.io/badge/EXPLORE%20OUR%20STORE-Join%20Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=black"/>
+</a>
+
+</div>
+
+### 01 — Hosting Services
+
+- SA-MP Hosting
+- open.mp Hosting
+- Minecraft Hosting
+- MTA Hosting
+- Node.js Bot Hosting
+- Python Hosting
+
+### 02 — VPS & Domain
+
+- Linux VPS
+- Windows VPS
+- Domain (All Extensions)
+- Cleaner VPS
+- Pterodactyl Installation & Setup
+
+### 03 — SA-MP / open.mp Development
+
+- TextDraw Development
+- Custom Script Development
+- SA-MP / open.mp Development
+- SA-MP to open.mp Migration
+- Gamemode Optimization
+- Script Optimization
+- Server Performance Optimization
+- SA-MP Anti-Cheat
+
+### 04 — Discord & Bot Development
+
+- Discord Bot Development
+- Discord Server Development
+- Custom Node.js Bots
+- Discord Auto Post
+
+### 05 — Maintenance & Technical Support
+
+- Server Crash Fixes
+- Error Fixes
+- Warning Fixes
+- VPS Cleaning & Maintenance
+
+<div align="center">
+
+**Interested in our services?**
+
+[![Join ServerQu Store](https://img.shields.io/badge/Discord-ORDER%20%26%20INQUIRIES-FFFFFF?style=for-the-badge&logo=discord&logoColor=black)](https://discord.gg/35md5S2ddG)
+
+</div>
+
+---
+
+## TECHNOLOGY STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,java,php,mysql,sqlite,androidstudio,electron,git,github,vscode,linux&theme=dark&perline=8"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PAWN-111111?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/OPEN.MP-111111?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/NODE.JS-111111?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/PYTHON-111111?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/ANDROID-111111?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/PAWN-111111?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPEN.MP-111111?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/CEF-111111?style=flat-square&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PTERODACTYL-111111?style=flat-square&logo=pterodactyl&logoColor=white"/>
 
 </div>
 
-<br/>
+---
 
-## 04 / GITHUB ANALYTICS
+## GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=achmdllows&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=999999&icon_color=ffffff&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmdllows&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=999999" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=achmdllows&show_icons=true&hide_border=true&bg_color=080808&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmdllows&layout=compact&hide_border=true&bg_color=080808&title_color=FFFFFF&text_color=AAAAAA"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=achmdllows&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=999999&dates=666666" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=achmdllows&hide_border=true&background=080808&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=777777"/>
 
 </div>
-
-<br/>
-
-## 05 / ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=achmdllows&bg_color=0d1117&color=999999&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
-
-<br/>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=100&section=footer&text=BUILD%20SOMETHING%20GREAT.&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=080808&height=120&section=footer&text=ENGINEERED%20WITH%20PURPOSE.&fontSize=20&fontColor=FFFFFF&fontAlignY=48" width="100%"/>
 
-<sub>© 2026 achmdllows — Crafted with code.</sub>
+**ACHMDLLOWS**
+
+<sub>Developer · Software Engineer · Digital Creator</sub>
+
+<sub>© 2026 achmdllows. All rights reserved.</sub>
 
 </div>

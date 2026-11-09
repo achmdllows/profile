@@ -17,7 +17,7 @@
 
 <br/><br/>
 
----
+
 
 <div align="center">
 
@@ -37,7 +37,7 @@ I believe in writing functional code, building reliable systems, and continuousl
 
 <br/>
 
----
+
 
 <br/>
 
@@ -177,7 +177,7 @@ I believe in writing functional code, building reliable systems, and continuousl
 
 <br/>
 
----
+
 
 <br/>
 
@@ -202,7 +202,7 @@ I believe in writing functional code, building reliable systems, and continuousl
 
 <br/>
 
----
+
 
 <br/>
 
@@ -311,7 +311,7 @@ Your trusted partner for hosting, development, and digital infrastructure.
 
 <br/>
 
----
+
 
 <br/>
 
@@ -331,7 +331,7 @@ Your trusted partner for hosting, development, and digital infrastructure.
 
 <br/>
 
----
+
 
 <br/>
 

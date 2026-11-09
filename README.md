@@ -1,6 +1,19 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ACHMDLLOWS&fontSize=75&fontColor=FFFFFF&fontAlignY=43&desc=SOFTWARE%20DEVELOPER%20%7C%20DIGITAL%20ENGINEER&descSize=13&descAlignY=60&color=0:050505,50:151515,100:252525&stroke=FFFFFF&strokeWidth=0.5&animation=fadeIn" width="100%"/>
+<a href="https://github.com/achmdllows">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://discord.gg/35md5S2ddG">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="https://instagram.com/USERNAME_IG">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://tiktok.com/@USERNAME_TIKTOK">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+</div>
 
 <br/>
 
@@ -37,22 +50,6 @@ My development interests cover multiple ecosystems, from SA-MP/open.mp gamemode 
 
 I believe in writing functional code, building reliable systems, and continuously improving every project.
 
-<div align="center">
-
-<a href="https://github.com/achmdllows">
-  <img src="https://img.shields.io/badge/GITHUB-ACHMDLLOWS-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://discord.gg/35md5S2ddG">
-  <img src="https://img.shields.io/badge/SERVERQU-DISCORD-111111?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-<a href="https://instagram.com/USERNAME_IG">
-  <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://tiktok.com/@USERNAME_TIKTOK">
-  <img src="https://img.shields.io/badge/TIKTOK-FOLLOW-111111?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
-</div>
 ---
 
 <div align="center">
@@ -329,8 +326,6 @@ Let's build something great together.
 <sub>SERVERQU STORE · FAST & TRUSTED</sub>
 
 </div>
-
----
 
 ---
 

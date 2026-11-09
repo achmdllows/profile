@@ -330,7 +330,9 @@ Providing hosting, server infrastructure, software development, and technical su
 
 # 06 — CONTRIBUTION ACTIVITY
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=achmdllows&bg_color=080808&color=A1A1AA&line=FFFFFF&point=FFFFFF&area=true&area_color=222222&hide_border=true" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=achmdllows&theme=github_dark" width="100%"/>
+
+</div>
 
 <br/>
 

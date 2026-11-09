@@ -22,46 +22,17 @@
 <div align="center">
 
 ## ABOUT ME
-
-**Independent Developer · Indonesia**
-
-</div>
-
-<br/>
-
+**Independent Developer · Indonesia** </div> <br/>
 I'm **achmdllows**, a developer focused on building software, applications, game server systems, and digital infrastructure.
-
 My development interests cover multiple ecosystems — from SA-MP/open.mp gamemode engineering to modern web applications, automation, Discord bots, Android applications, and Windows desktop software.
-
-I believe in writing functional code, building reliable systems, and continuously improving every project.
-
-<br/>
-
-
-
-<br/>
-
+I believe in writing functional code, building reliable systems, and continuously improving every project. <br/> <br/>
 <div align="center">
-
 ## DEVELOPMENT
-
 *Different platforms. Different technologies. One developer.*
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<br/>
-
+</div> <br/> <table> <tr> <td width="50%" valign="top"> <br/>
 **`01` &nbsp; GAME DEVELOPMENT**
-
 ![](https://img.shields.io/badge/SA--MP%20%2F%20OPEN.MP-PAWN-333333?style=flat-square)
-
 **SA-MP / open.mp — Game Server Engineering**
-
 - Custom Gamemode Development
 - Roleplay Systems & Mechanics
 - TextDraw & User Interface
@@ -70,18 +41,10 @@ I believe in writing functional code, building reliable systems, and continuousl
 - Gamemode & Script Optimization
 - Anti-Cheat Development
 - Server Performance Optimization
-
-<br/>
-</td>
-<td width="50%" valign="top">
-<br/>
-
+<br/> </td> <td width="50%" valign="top"> <br/>
 **`02` &nbsp; WEB ENGINEERING**
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark"/>
-
 **Web Development — Websites & Digital Platforms**
-
 - Frontend Development
 - Backend Development
 - Responsive Websites
@@ -89,20 +52,11 @@ I believe in writing functional code, building reliable systems, and continuousl
 - REST API Integration
 - Database Systems
 - Modern Web Interfaces
-
-<br/>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<br/>
-
+<br/> </td> </tr> <tr>
+<td width="50%" valign="top"> <br/>
 **`03` &nbsp; BOT ENGINEERING**
-
 <img src="https://skillicons.dev/icons?i=nodejs&theme=dark"/>
-
 **Node.js Development — Bots & Automation**
-
 - Discord Bot Development
 - Custom Bot Commands
 - Discord Auto Post
@@ -110,18 +64,10 @@ I believe in writing functional code, building reliable systems, and continuousl
 - API Integration
 - Automation Systems
 - Backend Services
-
-<br/>
-</td>
-<td width="50%" valign="top">
-<br/>
-
+<br/> </td> <td width="50%" valign="top"> <br/>
 **`04` &nbsp; SOFTWARE ENGINEERING**
-
 <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-
 **Python Development — Automation & Applications**
-
 - Python Applications
 - Automation Scripts
 - Custom Utilities
@@ -129,20 +75,10 @@ I believe in writing functional code, building reliable systems, and continuousl
 - Backend Development
 - Data Processing
 - System Tools
-
-<br/>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<br/>
-
+<br/> </td> </tr> <tr> <td width="50%" valign="top"> <br/>
 **`05` &nbsp; MOBILE ENGINEERING**
-
 <img src="https://skillicons.dev/icons?i=androidstudio,java&theme=dark"/>
-
 **Android Development — Mobile Applications**
-
 - Native Android Applications
 - Custom APK Development
 - Mobile UI Development
@@ -150,18 +86,9 @@ I believe in writing functional code, building reliable systems, and continuousl
 - API Integration
 - Mobile Launcher
 - Application Optimization
-
-<br/>
-</td>
-<td width="50%" valign="top">
-<br/>
-
-**`06` &nbsp; DESKTOP ENGINEERING**
-
-<img src="https://skillicons.dev/icons?i=electron,windows&theme=dark"/>
-
+<br/> </td> <td width="50%" valign="top"> <br/>
+**`06` &nbsp; DESKTOP ENGINEERING** <img src="https://skillicons.dev/icons?i=electron,windows&theme=dark"/>
 **Windows EXE Development — Desktop Applications**
-
 - Windows Desktop Software
 - Custom Application UI
 - Desktop Launcher
@@ -169,22 +96,11 @@ I believe in writing functional code, building reliable systems, and continuousl
 - System Utilities
 - Backend Integration
 - Application Optimization
-
+<br/> </td> </tr>
+</table> <br/>
 <br/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-
-
-<br/>
-
 <div align="center">
-
 ## TECHNOLOGY STACK
-
 *Tools and technologies I work with.*
 
 <br/>

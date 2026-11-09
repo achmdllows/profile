@@ -22,8 +22,6 @@
 </a>
 
 </div>
----
-
 <div align="center">
 
 # 01. - ABOUT ME

@@ -1,79 +1,144 @@
-# achmdllows
+<!--
+  ACHMDLLOWS — GitHub Profile README
+  Theme: Minimal / Monochrome / Developer Portfolio
+-->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=ACHMDLLOWS&fontSize=55&fontColor=ffffff&color=0:09090b,50:171717,100:262626&stroke=ffffff&strokeWidth=0.5&animation=fadeIn&fontAlignY=45&desc=Developer%20%7C%20Creator%20%7C%20Problem%20Solver&descAlignY=65&descSize=15" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <samp>Building things that make a difference.</samp>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=250&section=header&text=achmdllows&fontSize=75&fontColor=ffffff&fontAlignY=45&desc=SOFTWARE%20DEVELOPER%20%2F%20DIGITAL%20CREATOR&descAlignY=67&descSize=12&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/achmdllows">
-    <img src="https://img.shields.io/badge/GitHub-achmdllows-18181b?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=achmdllows&style=for-the-badge&color=18181b&label=PROFILE+VIEWS" />
-</p>
+<br/>
+
+**Independent Developer · Indonesia**
+
+*Turning ideas into functional digital products.*
+
+<br/>
+
+[GitHub](https://github.com/achmdllows) · [Repositories](https://github.com/achmdllows?tab=repositories) · [Activity](https://github.com/achmdllows?tab=overview)
+
+</div>
+
+<br/>
+
+## 01 / PROFILE
+
+I'm **achmdllows**, a developer focused on building software, digital platforms, and interactive experiences.
+
+My work spans across game server development, web applications, automation, bots, and cross-platform applications.
+
+I enjoy building systems from scratch, exploring new technologies, and turning complex ideas into practical solutions.
+
+<br/>
+
+## 02 / WHAT I BUILD
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### GAME DEVELOPMENT
+
+**SA-MP / open.mp**
+
+- Custom gamemode development
+- Roleplay systems & mechanics
+- Server-side architecture
+- UI systems & CEF integration
+
+</td>
+<td width="50%" valign="top">
+
+### WEB DEVELOPMENT
+
+**Websites & Platforms**
+
+- Frontend development
+- Backend integration
+- Responsive interfaces
+- Database-driven applications
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### AUTOMATION & BOTS
+
+**Node.js / Python**
+
+- Discord bot development
+- Automation systems
+- API integrations
+- Custom utilities
+
+</td>
+<td width="50%" valign="top">
+
+### APPLICATION DEVELOPMENT
+
+**Android / Windows**
+
+- Android APK development
+- Windows EXE applications
+- Desktop interfaces
+- Application integrations
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 03 / TECHNOLOGIES
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,php,mysql,java,androidstudio,git,github,vscode,linux&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PAWN-111111?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/OPEN.MP-111111?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/NODE.JS-111111?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON-111111?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/ANDROID-111111?style=flat-square&logo=android&logoColor=white" />
+
+</div>
+
+<br/>
+
+## 04 / GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=achmdllows&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=999999&icon_color=ffffff&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmdllows&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=999999" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=achmdllows&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=999999&dates=666666" />
+
+</div>
+
+<br/>
+
+## 05 / ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=achmdllows&bg_color=0d1117&color=999999&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+<br/>
 
 ---
 
-### About Me
+<div align="center">
 
-```js
-const developer = {
-    name: "achmdllows",
-    role: "Full Stack & Application Developer",
-    specialization: [
-        "SA-MP / open.mp Development",
-        "Website Development",
-        "Discord Bot Development",
-        "Android Applications",
-        "Desktop Applications"
-    ],
-    languages: ["Pawn", "JavaScript", "Python"],
-    currentlyLearning: ["Modern Web Development", "Application Architecture"],
-    mindset: "Code. Build. Improve. Repeat."
-};
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=100&section=footer&text=BUILD%20SOMETHING%20GREAT.&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%" />
 
-### Tech Stack
+<sub>© 2026 achmdllows — Crafted with code.</sub>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,java,php,mysql,sqlite,androidstudio,git,github,vscode,linux&theme=dark&perline=8" />
-</p>
-
-### Development Areas
-
-| Category | Specialization |
-|:--|:--|
-| SA-MP / open.mp | Gamemode, Systems, UI & Server Development |
-| Web Development | Frontend, Backend & Responsive Websites |
-| Node.js | Discord Bots, Automation & Backend |
-| Python | Scripts, Tools & Automation |
-| Android | Native Android Applications |
-| Desktop | Windows EXE Applications |
-
-### GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=achmdllows&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmdllows&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=achmdllows&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=999999&dates=777777" width="100%" />
-</p>
-
-### Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=achmdllows&bg_color=00000000&color=999999&line=ffffff&point=ffffff&area=true&area_color=444444&hide_border=true" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <samp>Less talk, more code.</samp>
-  <br/>
-  <sub>Designed & maintained by achmdllows © 2026</sub>
-</p>
+</div>

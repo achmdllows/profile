@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=250&section=header&text=achmdllows&fontSize=75&fontColor=ffffff&fontAlignY=45&desc=SOFTWARE%20DEVELOPER%20%2F%20DIGITAL%20CREATOR&descAlignY=67&descSize=12&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=achmdllows&fontSize=85&fontColor=FFFFFF&fontAlignY=45&desc=SOFTWARE%20DEVELOPER%20%2F%20DIGITAL%20CREATOR&descSize=14&descAlignY=63&color=0:050505,30:202020,60:080808,100:303030&stroke=C0C0C0&strokeWidth=1&animation=fadeIn" width="100%"/>
 
+</div>
 <br/>
 <br/><br/>
 

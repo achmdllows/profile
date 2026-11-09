@@ -3,8 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=250&section=header&text=achmdllows&fontSize=75&fontColor=ffffff&fontAlignY=45&desc=SOFTWARE%20DEVELOPER%20%2F%20DIGITAL%20CREATOR&descAlignY=67&descSize=12&animation=fadeIn" width="100%" />
 
 <br/>
-
-<br/>
+<br/><br/>
 
 <div align="center">
 
@@ -22,15 +21,6 @@
 </a>
 
 </div>
-
-<br/><br/>
-
-<a href="https://github.com/achmdllows">
-<img src="https://img.shields.io/badge/GITHUB-ACHMDLLOWS-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://discord.gg/35md5S2ddG">
-<img src="https://img.shields.io/badge/SERVERQU-DISCORD-111111?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
 
 <br/><br/>
 

@@ -37,6 +37,22 @@ My development interests cover multiple ecosystems, from SA-MP/open.mp gamemode 
 
 I believe in writing functional code, building reliable systems, and continuously improving every project.
 
+<div align="center">
+
+<a href="https://github.com/achmdllows">
+  <img src="https://img.shields.io/badge/GITHUB-ACHMDLLOWS-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://discord.gg/35md5S2ddG">
+  <img src="https://img.shields.io/badge/SERVERQU-DISCORD-111111?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="https://instagram.com/USERNAME_IG">
+  <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://tiktok.com/@USERNAME_TIKTOK">
+  <img src="https://img.shields.io/badge/TIKTOK-FOLLOW-111111?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+</div>
 ---
 
 <div align="center">

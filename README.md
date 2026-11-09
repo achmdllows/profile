@@ -314,13 +314,13 @@ Providing hosting, server infrastructure, software development, and technical su
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=achmdllows&show_icons=true&hide_border=true&bg_color=080808&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmdllows&layout=compact&hide_border=true&bg_color=080808&title_color=FFFFFF&text_color=A1A1AA"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=achmdllows&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=achmdllows&theme=github_dark" width="49%"/>
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=achmdllows&hide_border=true&background=080808&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=A1A1AA&dates=666666"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=achmdllows&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=achmdllows&theme=github_dark&utcOffset=7" width="49%"/>
 
 </div>
 

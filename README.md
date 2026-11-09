@@ -25,7 +25,7 @@
 
 <div align="center">
 
-# 01 — ABOUT ME
+# 01. - ABOUT ME
 
 **Independent Developer · Indonesia**
 
@@ -41,7 +41,7 @@ I believe in writing functional code, building reliable systems, and continuousl
 
 <div align="center">
 
-# 02 — DEVELOPMENT
+# 02. - DEVELOPMENT
 
 *Different platforms. Different technologies. One developer.*
 
@@ -211,7 +211,7 @@ I believe in writing functional code, building reliable systems, and continuousl
 
 <div align="center">
 
-# 03 — TECHNOLOGY STACK
+# 03. - TECHNOLOGY STACK
 
 *Tools and technologies I work with.*
 
@@ -318,7 +318,7 @@ Let's build something great together.
 
 <div align="center">
 
-# 05 — GITHUB STATISTICS
+# 05. - GITHUB STATISTICS
 
 <br/>
 
@@ -336,7 +336,7 @@ Let's build something great together.
 
 <div align="center">
 
-# 06 — CONTRIBUTION ACTIVITY
+# 06. - CONTRIBUTION ACTIVITY
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=achmdllows&theme=github_dark" width="100%"/>
 

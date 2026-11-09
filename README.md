@@ -232,79 +232,89 @@ I believe in writing functional code, building reliable systems, and continuousl
 
 <div align="center">
 
-# 04 — SERVERQU STORE
+<img src="https://images-ext-1.discordapp.net/external/q-V5S29ZIsfGJ1hFa7ZhxN4z8Ki7iUahqyEIMK7sMiM/%3Fsize%3D1024/https/cdn.discordapp.com/icons/1510380032059637861/3a084b02083e4afc9c93df5e5c059ded.png?format=webp&quality=lossless" width="150" height="150" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=150&text=SERVERQU%20STORE&fontSize=38&fontColor=FFFFFF&fontAlignY=43&desc=FAST%20%26%20TRUSTED%20%7C%20DIGITAL%20SERVICES&descSize=12&descAlignY=67&color=0:101010,100:252525" width="100%"/>
+# SERVERQU STORE
 
-**Your Digital Infrastructure & Development Partner.**
+### DIGITAL SERVICES & INFRASTRUCTURE
 
-Providing hosting, server infrastructure, software development, and technical support.
+`FAST` · `TRUSTED` · `PROFESSIONAL`
+
+Your trusted partner for hosting, development, and digital infrastructure.
 
 <br/>
 
 <a href="https://discord.gg/35md5S2ddG">
-<img src="https://img.shields.io/badge/VISIT%20SERVERQU%20STORE-JOIN%20OUR%20DISCORD-FFFFFF?style=for-the-badge&logo=discord&logoColor=black"/>
+<img src="https://img.shields.io/badge/JOIN%20OUR%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </div>
 
-### 01 / Hosting Services
+---
 
-| Service | Availability |
-|:--|:--:|
-| SA-MP Hosting | ✓ |
-| open.mp Hosting | ✓ |
-| Minecraft Hosting | ✓ |
-| MTA Hosting | ✓ |
-| Node.js Bot Hosting | ✓ |
-| Python Hosting | ✓ |
+### 01 / HOSTING SERVICES
 
-### 02 / VPS & Domain
+| Service | Description |
+|:--|:--|
+| SA-MP Hosting | Game server hosting |
+| open.mp Hosting | Multiplayer server hosting |
+| Minecraft Hosting | Minecraft server hosting |
+| MTA Hosting | Multi Theft Auto hosting |
+| Node.js Hosting | Bot & application hosting |
+| Python Hosting | Python application hosting |
 
-| Service | Availability |
-|:--|:--:|
-| Linux VPS | ✓ |
-| Windows VPS | ✓ |
-| Domain — All Extensions | ✓ |
-| Cleaner VPS | ✓ |
-| Pterodactyl Installation & Setup | ✓ |
+### 02 / VPS & DOMAIN
 
-### 03 / SA-MP & open.mp Development
+| Service | Description |
+|:--|:--|
+| Linux VPS | Linux virtual servers |
+| Windows VPS | Windows virtual servers |
+| Domain | All domain extensions |
+| Cleaner VPS | VPS cleaning service |
+| Pterodactyl | Installation & configuration |
+
+### 03 / SA-MP & OPEN.MP DEVELOPMENT
 
 - TextDraw Development
 - Custom Script Development
-- SA-MP / open.mp Gamemode Development
+- Gamemode Development
 - SA-MP to open.mp Migration
 - Gamemode Optimization
 - Script Optimization
 - Server Performance Optimization
 - SA-MP Anti-Cheat
 
-### 04 / Discord & Bot Development
+### 04 / DISCORD & BOT DEVELOPMENT
 
 - Discord Bot Development
 - Discord Server Development
-- Custom Node.js Bot
+- Custom Node.js Bots
 - Discord Auto Post
 
-### 05 / Maintenance & Technical Support
+### 05 / MAINTENANCE & TECHNICAL SUPPORT
 
 - Server Crash Fixes
 - Error Fixes
 - Warning Fixes
 - VPS Cleaning & Maintenance
 
+---
+
 <div align="center">
 
-<br/>
+### NEED A DIGITAL SERVICE?
 
-**NEED A SERVICE? LET'S WORK TOGETHER.**
+Let's build something great together.
 
 <a href="https://discord.gg/35md5S2ddG">
-<img src="https://img.shields.io/badge/CONTACT%20SERVERQU-35md5S2ddG-181818?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONTACT%20SERVERQU-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
+<sub>SERVERQU STORE · FAST & TRUSTED</sub>
+
 </div>
+
+---
 
 ---
 
